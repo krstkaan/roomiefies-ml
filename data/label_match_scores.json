@@ -1,0 +1,122 @@
+{
+    "partici": {
+        "partici": 100,
+        "minimalist": 75,
+        "doga_asigi": 70,
+        "iskolik": 50,
+        "sanatci_ruh": 80,
+        "evcimen": 65,
+        "macera_tutkunu": 85,
+        "sosyal_kelebek": 90,
+        "yalniz_kurt": 30,
+        "muhafazakar": 40
+    },
+    "minimalist": {
+        "partici": 75,
+        "minimalist": 100,
+        "doga_asigi": 80,
+        "iskolik": 70,
+        "sanatci_ruh": 65,
+        "evcimen": 90,
+        "macera_tutkunu": 50,
+        "sosyal_kelebek": 40,
+        "yalniz_kurt": 60,
+        "muhafazakar": 70
+    },
+    "doga_asigi": {
+        "partici": 70,
+        "minimalist": 80,
+        "doga_asigi": 100,
+        "iskolik": 40,
+        "sanatci_ruh": 85,
+        "evcimen": 75,
+        "macera_tutkunu": 90,
+        "sosyal_kelebek": 60,
+        "yalniz_kurt": 55,
+        "muhafazakar": 60
+    },
+    "iskolik": {
+        "partici": 50,
+        "minimalist": 70,
+        "doga_asigi": 40,
+        "iskolik": 100,
+        "sanatci_ruh": 45,
+        "evcimen": 70,
+        "macera_tutkunu": 40,
+        "sosyal_kelebek": 50,
+        "yalniz_kurt": 60,
+        "muhafazakar": 80
+    },
+    "sanatci_ruh": {
+        "partici": 80,
+        "minimalist": 65,
+        "doga_asigi": 85,
+        "iskolik": 45,
+        "sanatci_ruh": 100,
+        "evcimen": 60,
+        "macera_tutkunu": 80,
+        "sosyal_kelebek": 85,
+        "yalniz_kurt": 55,
+        "muhafazakar": 50
+    },
+    "evcimen": {
+        "partici": 65,
+        "minimalist": 90,
+        "doga_asigi": 75,
+        "iskolik": 70,
+        "sanatci_ruh": 60,
+        "evcimen": 100,
+        "macera_tutkunu": 40,
+        "sosyal_kelebek": 45,
+        "yalniz_kurt": 65,
+        "muhafazakar": 85
+    },
+    "macera_tutkunu": {
+        "partici": 85,
+        "minimalist": 50,
+        "doga_asigi": 90,
+        "iskolik": 40,
+        "sanatci_ruh": 80,
+        "evcimen": 40,
+        "macera_tutkunu": 100,
+        "sosyal_kelebek": 95,
+        "yalniz_kurt": 30,
+        "muhafazakar": 25
+    },
+    "sosyal_kelebek": {
+        "partici": 90,
+        "minimalist": 40,
+        "doga_asigi": 60,
+        "iskolik": 50,
+        "sanatci_ruh": 85,
+        "evcimen": 45,
+        "macera_tutkunu": 95,
+        "sosyal_kelebek": 100,
+        "yalniz_kurt": 20,
+        "muhafazakar": 15
+    },
+    "yalniz_kurt": {
+        "partici": 30,
+        "minimalist": 60,
+        "doga_asigi": 55,
+        "iskolik": 60,
+        "sanatci_ruh": 55,
+        "evcimen": 65,
+        "macera_tutkunu": 30,
+        "sosyal_kelebek": 20,
+        "yalniz_kurt": 100,
+        "muhafazakar": 75
+    },
+    "muhafazakar": {
+        "partici": 40,
+        "minimalist": 70,
+        "doga_asigi": 60,
+        "iskolik": 80,
+        "sanatci_ruh": 50,
+        "evcimen": 85,
+        "macera_tutkunu": 25,
+        "sosyal_kelebek": 15,
+        "yalniz_kurt": 75,
+        "muhafazakar": 100
+    }
+}

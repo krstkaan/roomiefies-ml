@@ -1,0 +1,77 @@
+[
+    {
+        "label1": "partici",
+        "label2": "sosyal_kelebek",
+        "match_score": 92
+    },
+    {
+        "label1": "muhafazakar",
+        "label2": "yalniz_kurt",
+        "match_score": 65
+    },
+    {
+        "label1": "minimalist",
+        "label2": "sanatci_ruh",
+        "match_score": 70
+    },
+    {
+        "label1": "evcimen",
+        "label2": "muhafazakar",
+        "match_score": 88
+    },
+    {
+        "label1": "macera_tutkunu",
+        "label2": "sosyal_kelebek",
+        "match_score": 90
+    },
+    {
+        "label1": "iskolik",
+        "label2": "evcimen",
+        "match_score": 60
+    },
+    {
+        "label1": "doga_asigi",
+        "label2": "sanatci_ruh",
+        "match_score": 80
+    },
+    {
+        "label1": "yalniz_kurt",
+        "label2": "minimalist",
+        "match_score": 77
+    },
+    {
+        "label1": "sosyal_kelebek",
+        "label2": "sanatci_ruh",
+        "match_score": 85
+    },
+    {
+        "label1": "iskolik",
+        "label2": "macera_tutkunu",
+        "match_score": 50
+    },
+    {
+        "label1": "partici",
+        "label2": "iskolik",
+        "match_score": 72
+    },
+    {
+        "label1": "doga_asigi",
+        "label2": "yalniz_kurt",
+        "match_score": 68
+    },
+    {
+        "label1": "sanatci_ruh",
+        "label2": "muhafazakar",
+        "match_score": 43
+    },
+    {
+        "label1": "macera_tutkunu",
+        "label2": "minimalist",
+        "match_score": 58
+    },
+    {
+        "label1": "evcimen",
+        "label2": "sosyal_kelebek",
+        "match_score": 76
+    }
+]
